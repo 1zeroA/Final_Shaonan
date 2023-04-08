@@ -1,0 +1,34 @@
+adcode,Region,2021,2020,2019,2018,2017
+110000,Beijing,400,436,451.5,460,453.5
+120000,Tianjin City,463,476,414,421.5,398
+130000,Hebei Province,433,440,420,399.5,360.5
+140000,Shanxi Province,434,459,456.5,454,426
+150000,Inner Mongolia Autonomous Region,346.5,385,394,367.5,351.5
+210000,Liaoning Province,396,415.5,425.5,414.5,389
+220000,Jilin Province,320,353.5,361,418.5,395.5
+230000,Heilongjiang Province,317,328.5,398,379.5,367.5
+310000,Shanghai,400,400,403,401,402
+320000,Jiangsu Province,446.5,298.5,292,283,275
+330000,Zhejiang Province,495,495,496,490,480
+340000,Anhui Province,467,467,465,459,426.5
+350000,Fujian Province,445,433.5,428.5,412,356.5
+360000,Jiangxi Province,469.5,475.5,475.5,471.5,440
+370000,Shandong Province,444,449,473,470,458
+410000,Henan Province,433,441.5,416,405,365.5
+420000,Hubei Province,430,410.5,416.5,408,375.5
+430000,Hunan Province,450,467,454.5,447.5,412
+440000,Guangdong Province,440,420,422.5,409.5,389
+450000,Guangxi Zhuang Autonomous Region,380.5,367,367.5,374,352.5
+460000,Hainan Province,466,463,566,559,558.5
+500000,Chongqing City,451,427,446.5,431,415.5
+510000,Sichuan Province,452,451,465.5,475,453
+520000,Guizhou Province,423,423.5,411,428,407
+530000,Yunnan Province,467.5,460,457.5,460,437.5
+540000,Tibet Autonomous Region,315,322.5,320,345,336
+610000,Shaanxi Province,373.5,377.5,381.5,338.5,317.5
+620000,Gansu Province,384,405.5,383,375,360
+630000,Qinghai Province,335.5,365.5,376.5,355.5,355
+640000,Ningxia Hui Autonomous Region,387.5,409.5,418,385,367.5
+650000,Xinjiang Uygur Autonomous Region,326,343.5,356.5,356.5,354
+,Data source: China Education Online,,,,,
+,https://www.eol.cn/e_html/gk/fsx/,,,,,
